@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-hi",
+  "version": "0.0.1",
+  "dependencies": {
+    "bufferutil": "^4.0.7",
+    "https-proxy-agent": "^5.0.1",
+    "minimist": "^1.2.0",
+    "ws": "^8.11.0"
+  },
+  "scripts": {
+    "start": "node server.js -b 0.0.0.0"
+  }
+}

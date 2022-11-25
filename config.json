@@ -1,0 +1,10 @@
+{
+  "server": "hahah",
+  "local_address": "0.0.0.0",
+  "scheme": "wss",
+  "local_port": 1080,
+  "remote_port": 4030,
+  "password": "afjjanakfjasfjfjalkfjjja",
+  "timeout": 1000,
+  "method": "aes-256-cfb"
+}
