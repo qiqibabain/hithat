@@ -2,9 +2,10 @@
   "server": "hahah",
   "local_address": "0.0.0.0",
   "scheme": "https",
-  "local_port": 1080,
+  "local_port": 3000,
   "remote_port": 4030,
   "password": "afjjanakfjasfjfjalkfjjja",
-  "timeout": 1000,
-  "method": "no-encrypt"
+  "timeout": 2000,
+  "method": "no-encrypt",
+  "production": "dev"
 }
