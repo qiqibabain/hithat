@@ -5,6 +5,7 @@
   "dependencies": {
     "bufferutil": "^4.0.7",
     "express": "^4.18.2",
+    "got": "^12.5.3",
     "https-proxy-agent": "^5.0.1",
     "minimist": "^1.2.0",
     "node-uuid": "^1.4.8",
